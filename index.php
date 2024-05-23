@@ -17,7 +17,7 @@ if ($user_id) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Pharmative &mdash; Colorlib Template</title>
+  <title>FarmaT</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -218,8 +218,8 @@ if ($user_id) {
             <div class="block-5 mb-5">
               <h3 class="footer-heading mb-4">Contacto de Informacion</h3>
               <ul class="list-unstyled">
-                <li class="address">203 Fake St. Mountain View, San Francisco, Cartagena</li>
-                <li class="phone"><a href="tel://3217514647">+3217514647</a></li>
+                <li class="address">Calle 30 20-115,Cartagena</li>
+                <li class="phone"><a href="tel://3217514647">3217514647</a></li>
                 <li class="email">yeimerballesta@gmail.com</li>
               </ul>
             </div>
