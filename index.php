@@ -134,8 +134,8 @@ if ($user_id) {
           <div class="col-lg-4">
             <div class="feature">
               <span class="wrap-icon flaticon-medicine"></span>
-              <h3><a href="#">nueva medicina todos los dias</a></h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa laborum voluptates excepturi neque labore .</p>
+              <h3><a href="#">Nueva medicina todos los dias</a></h3>
+              <p>Descubre nuestras últimas adquisiciones farmacéuticas, ¡tu salud es nuestra prioridad! Actualizamos nuestro inventario diariamente para ofrecerte lo mejor en medicina.</p>
               <p><a href="#" class="d-flex align-items-center"><span class="mr-2">Learn more</span> <span class="icon-keyboard_arrow_right"></span></a></p>
             </div>
           </div>
@@ -201,8 +201,7 @@ if ($user_id) {
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="block-7">
               <h3 class="footer-heading mb-4">Acerca de <strong class="text-primary">FarmaT</strong></h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius quae reiciendis distinctio voluptates
-                sed dolorum excepturi iure eaque, aut unde.</p>
+              <p>En nuestra farmacia en línea, nos dedicamos a ofrecerte productos farmacéuticos de alta calidad y servicios confiables para cuidar de tu salud y bienestar. Con un amplio catálogo de medicamentos, productos de cuidado personal y atención al cliente excepcional, estamos aquí para ser tu aliado en el camino hacia una vida más saludable.</p>
             </div>
           </div>
           <div class="col-lg-3 mx-auto mb-5 mb-lg-0">
