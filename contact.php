@@ -200,7 +200,7 @@
               <h3 class="footer-heading mb-4">Informacion de Contacto</h3>
               <ul class="list-unstyled">
                 <li class="address">Calle 30 20-115,Cartagena</li>
-                <li class="phone"><a href="tel://23923929210">3217514647</a></li>
+                <li class="phone"><a href="tel://3217514647">3217514647</a></li>
                 <li class="email">yeimerballesta@gmail.com</li>
               </ul>
             </div>

@@ -128,7 +128,7 @@ if ($user_id) {
               <p>¡En nuestra farmacia, tu bienestar no tiene horario! Ofrecemos envíos 24/7 para que recibas tus
                 medicamentos y productos de salud en cualquier momento del día. Compra en línea y disfruta de la
                 comodidad y rapidez de nuestro servicio de entrega continua.</p>
-              <p><a href="#" class="d-flex align-items-center"><span class="mr-2">Learn more</span> <span class="icon-keyboard_arrow_right"></span></a></p>
+              <p><a href="#" class="d-flex align-items-center"><span class="mr-2">leer Mas</span> <span class="icon-keyboard_arrow_right"></span></a></p>
             </div>
           </div>
           <div class="col-lg-4">
@@ -136,7 +136,7 @@ if ($user_id) {
               <span class="wrap-icon flaticon-medicine"></span>
               <h3><a href="#">Nueva medicina todos los dias</a></h3>
               <p>Descubre nuestras últimas adquisiciones farmacéuticas, ¡tu salud es nuestra prioridad! Actualizamos nuestro inventario diariamente para ofrecerte lo mejor en medicina.</p>
-              <p><a href="#" class="d-flex align-items-center"><span class="mr-2">Learn more</span> <span class="icon-keyboard_arrow_right"></span></a></p>
+              <p><a href="#" class="d-flex align-items-center"><span class="mr-2">Leer Mas</span> <span class="icon-keyboard_arrow_right"></span></a></p>
             </div>
           </div>
           <div class="col-lg-4">
@@ -147,7 +147,7 @@ if ($user_id) {
                 almacenamiento hasta la entrega. Trabajamos con proveedores confiables y seguimos estrictos estándares
                 de calidad para asegurarnos de que cada producto que ofrecemos cumpla con los más altos estándares de
                 seguridad y eficacia.</p>
-              <p><a href="#" class="d-flex align-items-center"><span class="mr-2">Learn more</span> <span class="icon-keyboard_arrow_right"></span></a></p>
+              <p><a href="#" class="d-flex align-items-center"><span class="mr-2">Leer mas</span> <span class="icon-keyboard_arrow_right"></span></a></p>
             </div>
           </div>
         </div>
